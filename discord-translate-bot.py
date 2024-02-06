@@ -2,7 +2,6 @@ import discord
 from googletrans import Translator
 
 
-bot_token = 'MTE5NTg0MzIyODg2MDE2MjE5NA.GrnCZs.eo9Kc25fOQBt1-Jg6TViPFmCDJ1wLjtrQRk37w'
 translator = Translator()
 
 intents = discord.Intents.default()
